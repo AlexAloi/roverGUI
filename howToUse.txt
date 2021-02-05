@@ -1,0 +1,15 @@
+For GUI (Windows)
+
+in cmd, open the file by running
+
+$ python GUI.py -p camera
+
+
+For client (Linux)
+
+open the gui folder in a venv (not sure the command, think its $ venv/src activate)
+
+to actually send data in the venv
+$ python3 bestClient.py
+if the above fucks up
+$ python3 test1.py

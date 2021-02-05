@@ -1,0 +1,11 @@
+{
+    "text": {
+        "gripForce" : ["Gripper Force: ", "units"]
+
+    },
+    "image": {
+        "front": "INTEL_REALSENSE",
+        "drive": "ARM_CAMERA",
+        "bar": ""
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "image": {
+        "front": "INTEL_REALSENSE",
+        "drive": "DRIVE_CAMERA"
+    }
+}

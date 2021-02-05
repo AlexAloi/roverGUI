@@ -1,0 +1,12 @@
+{
+    "text": {
+        "charge" : ["", "%"],
+        "internalTemp": ["Internal Temp: ", "C"],
+        "batTemp": ["Battery Temp: ", "C"],
+        "motorCurrent": ["4x Motor current", "V"],
+        "signal": ["Signal strength: ", "ping"]
+    },
+    "other": {
+        "CONSOLE_LOG" : "log"
+    }
+}
